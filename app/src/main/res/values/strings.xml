@@ -1,0 +1,294 @@
+<resources>
+    <string name="app_name">GreenSort</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Admin</string>
+    <string name="nav_header_subtitle">admin@greensort.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Learn</string>
+    <string name="menu_slideshow">Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="waste_management_content">
+    &lt;h1&gt;What is waste management and why is it important?&lt;/h1&gt;&lt;br /&gt;
+    Waste management is one of the most crucial problems our country is facing right now. India produces 62 million tonnes of waste each year. When we segregate waste, there is not only a reduction of waste that gets landfilled, it also reduces pollution levels by lowering the percentage of garbage exposed to air and water. WM is important because it reduces the effect of pollution on the environment and nature. It can also help reduce or reuse the waste materials that are harmful for the environment such as plastic, glass, Styrofoam, thermocol, etc. and many more.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;h2&gt;What is dry waste and wet waste?&lt;/h2&gt;
+    &lt;h3&gt;Dry Waste:&lt;/h3&gt;
+    &lt;p&gt;Dry waste consists of waste that does not decay. It is also known as waste which cannot be biodegradable. Dry waste consists of paper, glass, thermocol, Styrofoam, rubber, metal, cloth, empty bottles, stationeries, etc. and can be recycled into new products further. Before segregating, sharp materials like glass and other metals shall be kept in a separate bag/container.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;p&gt;How dry waste is to be disposed?&lt;/p&gt;
+    &lt;p&gt;Dry waste is the kind of waste which is not biodegradable. Hence wet waste can be converted and recycled into new products and reused further.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;h3&gt;Wet Waste:&lt;/h3&gt;
+    &lt;p&gt;Wet waste is all the kitchen waste that we produce. Eg: vegetable peels, used tea bags, fruits, leftovers, coconut shells, flowers, leaves, meat or nonveg, expired food items, bread, biscuits, etc.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;p&gt;How wet waste is to be disposed?&lt;/p&gt;
+    &lt;p&gt;This is organic waste which can be recycled and converted into compost. Most of the wet waste comes from the kitchen itself. Restaurants, buildings, and factories need efficient wet waste management systems.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;h2&gt;Waste segregation&lt;/h2&gt;
+    &lt;h3&gt;Why is waste segregation necessary?&lt;/h3&gt;
+    &lt;p&gt;By segregating dry waste such as plastic, glass, metals, paper, etc. from wet waste it becomes easier to recycle them into new products. Whereas wet waste like vegetable leftovers, fruits, used tea bags, etc. can be used for producing gas.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Proper WM is necessary because it will help in reducing;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Greenhouse gas emission&lt;/li&gt;
+        &lt;li&gt;Toxic gas explosions&lt;/li&gt;
+        &lt;li&gt;Waste Landfill&lt;/li&gt;
+        &lt;li&gt;Air, soil, and water pollution, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    &lt;h3&gt;Segregation of waste at home:&lt;/h3&gt;
+    &lt;p&gt;Segregation of dry waste and wet waste can be done from home. This habit will reduce the burden of the municipal authorities to segregate the waste. To get started with it, you just need some awareness and the desire to act towards this.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;p&gt;You need to keep these following things in mind before segregating waste at home:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Keep 2 separate dustbins for dry and wet waste&lt;/li&gt;
+        &lt;li&gt;Remove any covering on the kitchen waste before throwing it in the dustbin&lt;/li&gt;
+        &lt;li&gt;Do not mix wet waste with dry waste&lt;/li&gt;
+        &lt;li&gt;Keep the plastic from the kitchen dry and separate in the dry bin&lt;/li&gt;
+        &lt;li&gt;Keep the dry waste rinsed of any food content before throwing in the dry bin&lt;/li&gt;
+        &lt;li&gt;Throw the sanitary waste in a separate paper bag&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    &lt;h2&gt;What is Waste Segregation?&lt;/h2&gt;
+    &lt;p&gt;Waste segregation is the process of separating different types of waste materials in order to make it easier to recycle, compost, or dispose of them properly. This process is an important step in reducing the amount of waste that ends up in landfills and promoting a more sustainable environment.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;h3&gt;Segregation at the individual and community level&lt;/h3&gt;
+    &lt;p&gt;Segregating waste can be done at the individual level, such as separating recyclables from other trash in your own home, or at the community level, through programs that collect different types of waste at the curb. Many cities and towns have curbside pickup programs for recycling and composting, and residents are often provided with separate bins for different types of waste.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;h3&gt;Benefits of Waste Segregation&lt;/h3&gt;
+    &lt;p&gt;By segregating waste, we can reduce the amount of waste that ends up in landfills, conserve resources, and reduce greenhouse gas emissions. It also makes it easier for WM companies to recycle and compost materials, rather than having to sort through mixed waste.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Overall, the segregation of waste is an important step in promoting a more sustainable environment and reducing the impact of waste on our planet. By separating different types of waste, we can make it easier to recycle and compost materials and reduce the amount of waste that ends up in landfills.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;h3&gt;Conclusion: wet garbage and dry garbage&lt;/h3&gt;
+    &lt;p&gt;Wet waste and Dry waste segregation are necessary for every individual because they will help us keep our environment pollution free and also keep the environment healthy. These segregated wastes can be reused and especially plastic waste can be recycled into new products and plastic granules.&lt;/p&gt;
+</string>
+
+    <string name="water_conservation_content">
+    &lt;h1&gt;What Is Water Conservation?&lt;/h1&gt;&lt;br /&gt;
+    Water conservation is the practice of using water efficiently to reduce unnecessary water usage. According to Fresh Water Watch, water conservation is important because fresh clean water is a limited resource, as well as a costly one. As a homeowner, you’re probably already well aware of the financial costs of inefficient water use. Conservation of this natural resource is critical for the environment — and our wallets.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;h2&gt;Water Conservation&lt;/h2&gt;
+    America’s population has doubled over the last half century, and our demand for water has tripled. Water conservation is more important than ever, and the world is looking for tips on saving water. The great news is that with just a few simple changes, you can reduce your water footprint. And Constellation is here to help!
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;h2&gt;How to save water: 10 tips for saving water around the home&lt;/h2&gt;
+    The majority of household water use comes from toilets, washing machines, showers, baths, faucets, and leaks, but what you can do to save water is fairly simple. These 10 water-saving tips will put you on the path to conserving water in your household.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Put a brick in your toilet’s water tank. You flush an average of 20 gallons of water a day down the toilet. If you don’t have a high-efficiency toilet, try filling your tank with something that will displace some of that water, such as a brick.&lt;/li&gt;
+    &lt;li&gt;Use the right amount of water for each load of laundry. Typically, 15-40 percent of indoor home water use comes from doing laundry. Save water by making sure to adjust the settings on your machine to the proper load size.&lt;/li&gt;
+    &lt;li&gt;Pick your washing machine wisely. When considering top-load vs. front-load washers, front-loading washing machines generally use less water.&lt;/li&gt;
+    &lt;li&gt;Water plants wisely. Water your lawn or garden early in the morning or late in the evening, so the water lasts and is not immediately evaporated by the hot sun.&lt;/li&gt;
+    &lt;li&gt;Install a low-flow showerhead. With a low-flow showerhead, you can save 15 gallons of water during a 10-minute shower.&lt;/li&gt;
+    &lt;li&gt;Check for and repair leaks. An average of 10,000 gallons of water is wasted every year due to household leaks. One of the most effective ways to cut your water footprint is to repair leaky faucets and toilets.&lt;/li&gt;
+    &lt;li&gt;Use a dishwasher. Dishwashing accounts for less than 2 percent of indoor water use, but using a machine is actually more water efficient than hand washing, especially if you run full loads. ENERGY STAR® dishwashers save about 1,600 gallons of water over its lifetime of use.&lt;/li&gt;
+    &lt;li&gt;Turn off the water. Teach your whole household to turn off the faucet while brushing teeth or shaving. Every little bit of water conservation helps!&lt;/li&gt;
+    &lt;li&gt;Defrost food in the fridge. Instead of running frozen foods under hot water from the faucet, build in time to let them defrost in the refrigerator.&lt;/li&gt;
+    &lt;li&gt;Manage outdoor water use. Equip all hoses with shut-off nozzles, which can prevent hose leaks.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    &lt;h2&gt;What else can you do to save water?&lt;/h2&gt;
+    When running your dishwasher or washing machine, make sure you fully load each cycle. Running full cycles helps conserve water because these appliances will fill to a certain level, and having more dishes or clothes reduces the amount of water needed for each cycle. This ensures that you get the most energy-saving and water-saving use from each run of your appliances. Here’s a video on how to save water by packing your dishwasher efficiently:
+    &lt;br /&gt;&lt;br /&gt;
+    One of the best water conservation tips out there, with possibly the largest impact, is a simple one: Take showers instead of baths. Baths may be relaxing and enjoyable, but it takes more than 78 gallons of water to fill a tub. Showers are a more water-efficient way to bathe. Here are more tips on saving water from taking a shower.
+    &lt;/string&gt;
+    </string>
+
+    <string name="energy_conservation_content">
+    &lt;h1&gt;What Is Energy Conservation?&lt;/h1&gt;&lt;br /&gt;
+    Energy conservation is the decision and practice of using less energy. Turning off the light when you leave the room, unplugging appliances when they’re not in use, and walking instead of driving are all examples of energy conservation. The two main reasons people conserve energy are to gain more control over their energy bill and reduce the demand on the earth’s natural resources.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;h2&gt;Energy Conservation vs. Energy Efficiency: What is the difference?&lt;/h2&gt;&lt;br /&gt;
+    Energy conservation and efficiency may be related, but they have distinct definitions in the energy world. &lt;strong&gt;Energy conservation&lt;/strong&gt; involves using less energy by adjusting your behaviors and habits. &lt;strong&gt;Energy efficiency&lt;/strong&gt;, on the other hand, involves using technology that requires less energy to perform the same function. Energy-saving light bulbs, large household appliances, smart thermostats, and smart home hubs are all examples of energy-efficient technology.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;h2&gt;10 Energy Conservation Ideas&lt;/h2&gt;&lt;br /&gt;
+    So why is it important to conserve energy? While energy efficiency might cost you money upfront before potentially saving you money down the road, energy conservation is something you can put into practice immediately, either at very little or no cost to you. Here are 10 energy conservation ideas you can get started with today:
+    &lt;ul&gt;
+        &lt;li&gt;Turn your refrigerator down. Refrigerators account for as much as 13.7% of the total household energy use. To increase energy savings, set your fridge to 37 degrees Fahrenheit and your freezer to 3 degrees Fahrenheit.&lt;/li&gt;
+        &lt;li&gt;Use energy-efficient light bulbs. Install energy-saving CFL or LED bulbs in your lighting fixtures to use 25-35 percent less energy compared to regular incandescent bulbs.&lt;/li&gt;
+        &lt;li&gt;Clean or replace air filters as recommended. The air conditioner and heater are the biggest energy users in most homes, and these appliances have to work even harder with dirty air filters. Write the date of installation on the filter to help you remember when it needs to be replaced.&lt;/li&gt;
+        &lt;li&gt;Do full loads. Make sure your dishwasher and washing machine are full before running them to get the most energy-saving use from each run cycle.&lt;/li&gt;
+        &lt;li&gt;Use smart power strips. Even when not in use, household electronics still draw power from outlets. This phenomenon is called “phantom load.” Energy-saving smart power strips, which shut down appliances that have gone into standby mode, help you cut down on phantom-load costs, potentially resulting in money and energy savings.&lt;/li&gt;
+        &lt;li&gt;Air-dry dishes and clothes. Instead of using your dishwasher’s drying feature, consider letting the dishes air-dry. And instead of using the dryer on a nice day, hang your clothes outside to dry.&lt;/li&gt;
+        &lt;li&gt;Bake with glass or ceramic pans. You can set the oven’s temperature 25 degrees lower than indicated in the recipe when you do this.&lt;/li&gt;
+        &lt;li&gt;Cook using the right-sized burner. Conserve energy by using your stove’s small burners for small pots and large burners for large pots.&lt;/li&gt;
+        &lt;li&gt;Cut down on air leaks in your home. You’re paying for warm air in the winter and cool air in the summer — don’t let that money escape! Check your windows and doors for cracks and gaps, and seal them up with new weather stripping or caulk.&lt;/li&gt;
+        &lt;li&gt;Keep your house a little hotter in the summer and a little cooler in the winter. Opt for wearing lighter clothes in the summer and wearing a few extra layers in the winter in exchange for those few degrees’ change in temperature. A good rule of thumb is to set the thermostat to 68 degrees Fahrenheit in the winter and to 78 in the summer.&lt;/li&gt;
+    &lt;/ul&gt;
+</string>
+
+    <string name="biodiversity_conservation">
+    &lt;h1&gt;Conservation of Biodiversity&lt;/h1&gt;
+    &lt;p&gt;The variability of life on Earth is called &lt;strong&gt;Biodiversity&lt;/strong&gt;. Biodiversity takes into account all the living organisms present on Earth. Healthy and good biodiversity indicates a healthy and good ecosystem. Hence, biodiversity is very important. A healthy ecosystem also includes the availability of pure water, pure air, healthy land, a good climate, and the availability of nutrients on Earth. Therefore, biodiversity conservation plays an important role in the quality of life of all living organisms.&lt;/p&gt;
+
+    &lt;h2&gt;Definition of Biodiversity Conservation&lt;/h2&gt;
+    &lt;p&gt;&lt;em&gt;“Protection, restoration, and management of biodiversity in order to derive sustainable benefits for present and future generations.”&lt;/em&gt; Or, it can also be defined as, &lt;em&gt;“the totality of genes, species, and ecosystems in a defined area.”&lt;/em&gt;&lt;/p&gt;
+
+    &lt;h2&gt;Objectives of Biodiversity Conservation&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Preservation of the diversity of species.&lt;/li&gt;
+        &lt;li&gt;Sustainability of species and ecosystems.&lt;/li&gt;
+        &lt;li&gt;Maintaining life-supporting and essential ecological processes.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2&gt;Conservation Methods&lt;/h2&gt;
+    &lt;p&gt;There are two primary methods for biodiversity conservation:&lt;/p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;&lt;strong&gt;In-situ Conservation:&lt;/strong&gt; Preserving species in their natural habitats, such as national parks and wildlife sanctuaries.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Ex-situ Conservation:&lt;/strong&gt; Conserving species outside their natural habitats, such as in zoos and botanical gardens.&lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;h3&gt;In-Situ Conservation&lt;/h3&gt;
+    &lt;p&gt;In situ conservation refers to the preservation and protection of species in their natural habitat. This method involves managing biodiversity in the location where it naturally occurs.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Advantages of In-situ Conservation:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Preserves species and their natural habitat.&lt;/li&gt;
+        &lt;li&gt;Provides protection to a large number of species simultaneously.&lt;/li&gt;
+        &lt;li&gt;Cost-effective and convenient.&lt;/li&gt;
+        &lt;li&gt;Species do not need to adjust to new habitats.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;Examples include biosphere reserves, national parks, wildlife sanctuaries, and sacred groves.&lt;/p&gt;
+
+    &lt;h3&gt;Ex-Situ Conservation&lt;/h3&gt;
+    &lt;p&gt;Ex situ conservation means preserving life outside the natural habitat. This involves breeding and maintaining species in controlled environments such as zoos and botanical gardens.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Advantages of Ex-situ Conservation:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Conditions like climate, food availability, and veterinary care can be managed.&lt;/li&gt;
+        &lt;li&gt;Artificial breeding methods can be introduced to increase population.&lt;/li&gt;
+        &lt;li&gt;Species can be protected from poaching.&lt;/li&gt;
+        &lt;li&gt;Genetic techniques can be applied for species restoration.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2&gt;Strategies for Biodiversity Conservation&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Conserve ecosystems to maintain ecological integrity.&lt;/li&gt;
+        &lt;li&gt;Restore populations of declining species.&lt;/li&gt;
+        &lt;li&gt;Conserve food varieties, timber plants, and agricultural stock.&lt;/li&gt;
+        &lt;li&gt;Utilize resources efficiently.&lt;/li&gt;
+        &lt;li&gt;Enforce laws to prevent deforestation and poaching.&lt;/li&gt;
+        &lt;li&gt;Create public awareness about biodiversity importance.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2&gt;Importance of Biodiversity Conservation&lt;/h2&gt;
+    &lt;p&gt;Biodiversity conservation is essential for a healthy environment, ensuring the availability of resources and the balance of food chains. Humans depend on different species for necessities, and biodiversity loss can lead to severe ecological and economic consequences.&lt;/p&gt;
+</string>
+
+    <string name="climate_change_info">
+    &lt;h1&gt;What Is Climate Change?&lt;/h1&gt;
+    &lt;p&gt;Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun&amp;#8217;s activity or large volcanic eruptions. But since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil and gas.&lt;/p&gt;
+
+    &lt;p&gt;Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun&amp;#8217;s heat and raising temperatures.&lt;/p&gt;
+
+    &lt;p&gt;The main greenhouse gases that are causing climate change include carbon dioxide and methane. These come from using gasoline for driving a car or coal for heating a building, for example. Clearing land and cutting down forests can also release carbon dioxide. Agriculture, oil and gas operations are major sources of methane emissions. Energy, industry, transport, buildings, agriculture and land use are among the main sectors causing greenhouse gases.&lt;/p&gt;
+
+    &lt;p&gt;The Earth is feeling the heat.&lt;/p&gt;
+
+    &lt;h2&gt;Humans are responsible for global warming&lt;/h2&gt;
+    &lt;p&gt;Climate scientists have showed that humans are responsible for virtually all global heating over the last 200 years. Human activities like the ones mentioned above are causing greenhouse gases that are warming the world faster than at any time in at least the last two thousand years.&lt;/p&gt;
+
+    &lt;p&gt;The average temperature of the Earth&amp;#8217;s surface is now about 1.2&amp;#176;C warmer than it was in the late 1800s (before the industrial revolution) and warmer than at any time in the last 100,000 years. The last decade (2011-2020) was the warmest on record, and each of the last four decades has been warmer than any previous decade since 1850.&lt;/p&gt;
+
+    &lt;p&gt;Many people think climate change mainly means warmer temperatures. But temperature rise is only the beginning of the story. Because the Earth is a system, where everything is connected, changes in one area can influence changes in all others.&lt;/p&gt;
+
+    &lt;p&gt;The consequences of climate change now include, among others, intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms and declining biodiversity.&lt;/p&gt;
+
+    &lt;p&gt;The Earth is asking for help.&lt;/p&gt;
+
+    &lt;h2&gt;People are experiencing climate change in diverse ways&lt;/h2&gt;
+    &lt;p&gt;Climate change can affect our health, ability to grow food, housing, safety and work. Some of us are already more vulnerable to climate impacts, such as people living in small island nations and other developing countries. Conditions like sea-level rise and saltwater intrusion have advanced to the point where whole communities have had to relocate, and protracted droughts are putting people at risk of famine. In the future, the number of people displaced by weather-related events is expected to rise.&lt;/p&gt;
+
+    &lt;h2&gt;Every increase in global warming matters&lt;/h2&gt;
+    &lt;p&gt;In a series of UN reports, thousands of scientists and government reviewers agreed that limiting global temperature rise to no more than 1.5&amp;#176;C would help us avoid the worst climate impacts and maintain a livable climate. Yet policies currently in place point to up to 3.1&amp;#176;C of warming by the end of the century.&lt;/p&gt;
+
+    &lt;p&gt;The emissions that cause climate change come from every part of the world and affect everyone, but some countries produce much more than others. The six biggest emitters (China, the United States of America, India, the European Union, the Russian Federation, and Brazil) together accounted for more than half of all global greenhouse gas emissions in 2023. By contrast, the 47 least developed countries accounted for only 3 per cent of global greenhouse gas emissions.&lt;/p&gt;
+
+    &lt;p&gt;Everyone must take climate action, but people and countries creating more of the problem have a greater responsibility to act first.&lt;/p&gt;
+
+    &lt;h2&gt;We face a huge challenge but already know many solutions&lt;/h2&gt;
+    &lt;p&gt;Many climate change solutions can deliver economic benefits while improving our lives and protecting the environment. We also have global frameworks and agreements to guide progress, such as the Sustainable Development Goals, the UN Framework Convention on Climate Change and the Paris Agreement. Three broad categories of action are: cutting emissions, adapting to climate impacts and financing required adjustments.&lt;/p&gt;
+
+    &lt;p&gt;Switching energy systems from fossil fuels to renewables like solar or wind will reduce the emissions driving climate change. But we have to act now. While a growing number of countries is committing to net zero emissions by 2050, emissions must be cut in half by 2030 to keep warming below 1.5&amp;#176;C. Achieving this means huge declines in the use of coal, oil and gas: production and consumption of all fossil fuels need to be cut by at least 30 per cent by 2030 in order to prevent catastrophic levels of climate change.&lt;/p&gt;
+
+    &lt;h2&gt;Growing coalition&lt;/h2&gt;
+    &lt;p&gt;Adapting to climate consequences protects people, homes, businesses, livelihoods, infrastructure and natural ecosystems. It covers current impacts and those likely in the future. Adaptation will be required everywhere, but must be prioritized now for the most vulnerable people with the fewest resources to cope with climate hazards. The rate of return can be high. Early warning systems for disasters, for instance, save lives and property, and can deliver benefits up to 10 times the initial cost.&lt;/p&gt;
+
+    &lt;h2&gt;We can pay the bill now, or pay dearly in the future&lt;/h2&gt;
+    &lt;p&gt;Climate action requires significant financial investments by governments and businesses. But climate inaction is vastly more expensive. One critical step is for developed countries to support developing countries so they can adapt and move towards greener economies.&lt;/p&gt;
+</string>
+
+    <!--    <string name="pollution_text">-->
+    <!--    &lt;p&gt;Industrialization, use of pesticides and nitrogen-based fertilizers, crop residues in agriculture, urbanization, forest fires, desert dust, and inadequate waste management have intensified environmental health risks and pollution, especially in low- and middle-income countries. At the same time, the global economy relies on deeply intertwined supply chains, sustained by more than 100 billion tons of raw materials entering the system each year. Intensive material consumption depletes natural resources and causes negative environmental impacts at every stage of the product lifecycle including production, use phase, and end-of-life. Global waste is expected to increase to 3.4 billion tons by 2050.&lt;/p&gt;-->
+
+    <!--    &lt;p&gt;Pollution of all types hinder development outcomes. Air pollution, exposure to lead and other chemicals, and hazardous waste including exposure to improper e-waste disposal, cause debilitating and fatal illnesses, create harmful living conditions, and destroy ecosystems. Pollution stunts economic growth, exacerbates poverty and inequality in both urban and rural areas, and significantly contributes to climate change. Poor people, who cannot afford to protect themselves from the negative impacts of pollution, end up suffering the most.&lt;/p&gt;-->
+
+    <!--    &lt;p&gt;Pollution is the largest environmental cause of disease and premature death. Pollution causes more than 9 million premature deaths, the majority of them due to air pollution. That’s several times more deaths than from AIDS, tuberculosis, and malaria combined. Global health crises, such as the COVID-19 pandemic, are reminders of the strong linkages between environment and health and of the need to address such linkages systematically.&lt;/p&gt;-->
+
+    <!--    &lt;p&gt;Air pollution is the leading environmental risk to health, causing 7 million premature deaths each year. This is equivalent to the number of people that have died from COVID-19 since March 2020. A recent World Bank publication found that air pollution cost the globe an estimated $8.1 trillion in 2019, equivalent to 6.1 percent of global GDP. More than 95 percent of deaths caused by air pollution occur in low- and middle-income countries. In individual countries, the economic burden of pollution associated with premature mortality and morbidity is also significant, equivalent to 5 to 14 percent of countries' GDPs.&lt;/p&gt;-->
+
+    <!--    &lt;p&gt;Recent evidence points to the similar devastation caused by exposure to harmful chemicals, such as lead. In 2019, more than 5.5 million adults died from cardiovascular disease arising from lead exposure. 90% of these deaths occurred in lower- and middle-income countries. In the same year, children younger than 5 years of age lost 765 million IQ points. Lead exposure cost countries $6 trillion, equivalent to 6.9% of global GDP.&lt;/p&gt;-->
+
+    <!--    &lt;p&gt;Indeed, individual studies for Argentina, Bangladesh, Colombia, Egypt, Ethiopia, Georgia, India, Lao PDR, Mexico, Myanmar, Nepal, Nicaragua, Nigeria, Pakistan, Peru, Slovakia, Ghana, and Vietnam, at national and subnational levels, suggest that the costs of pollution-related diseases are mainly due to outdoor and household air pollution, and exposure to lead and other chemicals.&lt;/p&gt;-->
+
+    <!--    &lt;p&gt;It is critical to address pollution because of its unacceptable toll on health and human capital, as well as associated GDP losses. Pollution management offers no-regrets options that can alleviate poverty, boost shared prosperity, and address the vital demands of millions of people for healthier and more productive lives. Pollution management can also make substantial contributions to climate change mitigation through actions such as reduction of black carbon and methane emissions, which contribute to both air pollution and climate change. In addition, pollution management can enhance competitiveness, for example, through job creation, better energy efficiency, improved transport, and sustainable urban and rural development.&lt;/p&gt;-->
+    <!--    </string>-->
+
+
+    <string name="sustainable_agriculture_text">
+    &lt;p&gt;&lt;b&gt;sustainable agriculture&lt;/b&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;sustainable agriculture&lt;/b&gt;, a system of farming that strives to provide the resources necessary for present human populations while conserving the planet’s ability to sustain future generations. See also organic farming, regenerative agriculture, permaculture, and agroforestry.&lt;/p&gt;
+
+    &lt;p&gt;In the wake of World War II, the nature of agriculture both intensified, with more product harvested per unit area, and extensified, with farms taking up a larger area. Subsequently, fewer and larger farms were able to meet the food needs of an increasing human population, constituting a dramatic shift from the numerous smaller farms of the past. Despite its efficiency, modern industrial agriculture has a number of drawbacks, including the degradation of ecosystems and the related biodiversity loss, a loss of crop diversity, numerous animal welfare concerns, and human health risks. Sustainable agriculture seeks to address these issues and prioritizes “planetary health,” the idea that the stability of the planet determines human well-being. Its basic tenets include promoting socioeconomic equity, earning profit, and maintaining ecosystem health. Because modern agriculture has played a substantial role in precipitating a mass extinction of plant and animal species on Earth, sustainable agriculture actively endeavours to protect and support biodiversity.&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;Crop production&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;i&gt;polyculture&lt;/i&gt;&lt;/p&gt;
+        <!--    &lt;p&gt;&lt;img src="polyculture_image.jpg" alt="A plot of organically grown mixed vegetables, Capay, California." /&gt;&lt;/p&gt;-->
+
+        &lt;p&gt;Sustainable agriculture emphasizes planting diverse crops, including heirloom plants, which are often suited to a region’s particular climate. Rather than relying on a single crop in industrial monoculture, sustainable agriculture advocates the use of polyculture, in which multiple crops are grown together. Although polyculture is frequently more labour-intensive than industrial monoculture, polyculture can reduce the need for chemical pesticides and fertilizers and generally improves soil quality. Similarly, crop rotation can help preserve soil productivity and lessen the need for agricultural chemicals for fertilization and pest control. The use of nitrogen-fixing cover crops, smother crops, and green manures can help restore soils and reduce erosion. Composting crop residues and other agricultural wastes helps recycle nutrients back to the farmland.&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;Animal agriculture&lt;/b&gt;&lt;/p&gt;
+        <!--    &lt;p&gt;&lt;img src="duroc_pigs_image.jpg" alt="Duroc pigs on a farm in the Highlands of Scotland." /&gt;&lt;/p&gt;-->
+
+        &lt;p&gt;Animal agriculture is a key area that sustainable agriculture seeks to reform. Livestock production is responsible for a large proportion of the greenhouse gases driving anthropogenic global warming. Sustainably managing manure and implementing animal feed additives can reduce the emissions of methane, a potent greenhouse gas.&lt;/p&gt;
+
+        <!--    &lt;p&gt;&lt;img src="chickens_image.jpg" alt="Chickens eating watermelon in a barnyard." /&gt;&lt;/p&gt;-->
+        &lt;p&gt;Other methods of improving animal agriculture’s sustainability focus on maintaining livestock health. Intensive animal agriculture can spur health crises. For example, diseases including Nipah virus and swine flu have emerged from crowded factory farms. Avian influenza can be transmitted from wild birds to poultry farms and vice versa, and the disease has been responsible for the culling of millions of chickens and other poultry worldwide. Reducing animal crowding and increasing farm hygiene standards are sustainable agriculture measures that reduce the planetary health risks of cultivating livestock. On smaller-scale farms, animal and crop production are often combined to form interconnected systems that reduce waste.&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;Water pollution and conservation&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;Water conservation is a major facet of sustainable agriculture. Globally, about 70 percent of all available freshwater resources are used for agriculture. Methods of reducing water waste can involve improving water storage practices to prevent evaporation losses and seepage and planting drought-resistant crops or crops that are appropriate for the climate. Many agricultural areas rely on simple flooding, or surface irrigation, as the principle means of irrigation. However, flooding often inundates fields with more water than crops require, and significant amounts of water are lost to evaporation or during transportation from the water source. Some sustainable farmers seek to implement reduced-volume irrigation, which provides slow streams of water to meet the water needs of specific crops while lessening water waste.&lt;/p&gt;
+
+    &lt;p&gt;Sustainable agriculture also seeks to address the contamination of surface water and groundwater. Large-scale agriculture often produces pollutants, such as agrochemical runoff and pathogen-laden animal waste, that seep into bodies of water and damage the surrounding environment, affecting both wildlife and humans. Soil erosion also degrades water quality, and the loss of productive topsoil reduces crop yields and the total land available for agriculture. To reduce these impacts, farmers can reduce the frequency and intensity of tillage or practice no-till methods. Organic or synthetic fertilizers and pesticides should be applied only sparingly and during dry conditions to minimize runoff; the judicious use of agricultural chemicals can minimize air pollution caused by airborne drift. Some farmers use buffer plants near waterways to absorb polluting nutrients before they can leach into bodies of water.&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/p&gt;
+        <!--    &lt;p&gt;&lt;img src="renewable_energy_image.jpg" alt="Wind turbines above an agricultural field." /&gt;&lt;/p&gt;-->
+
+        &lt;p&gt;Finally, sustainable agriculture calls for a shift from nonrenewable fossil fuels to clean and renewable modes of energy, which include solar, wind, nuclear, and hydroelectric power. Many sustainable farms rely on on-site wind turbines or solar panels to meet their electricity needs and may utilize electric vehicles for farm work. Innovations such as energy-efficient farm equipment and improved insulation of farm buildings can help reduce agricultural energy use. Fossil fuel consumption is associated with air pollution and acid rain and also releases carbon dioxide, one of the major drivers of global warming.&lt;/p&gt;
+</string>
+
+    <string name="carbon_footprint_resources">
+    <p>&#8220;What is a carbon footprint?&#8221; you ask.</p>
+    <p>We all leave a mark on our planet. Think of your carbon footprint as your personal impact.</p>
+    <p>In technical terms, your carbon footprint is the amount of greenhouse gas you produce in units of carbon dioxide. This footprint is determined by your daily lifestyle and activities, such as travel (car, plane, train, etc.), electrical use, consumption of products and services, foods you eat, etc.</p>
+    <p>As discussed in our blog on the human causes of climate change, greenhouse gases are the primary contributors to many of today&#8217;s environmental issues, including pollution, climate change, and global warming.</p>
+    <p>There are a number of free resources online that show how to calculate your carbon footprint, including our handy calculator, this calculator from The Nature Conservancy, or this one from the EPA.</p>
+    <p>Alexandra Shimo-Barry, author of &#8220;The Environment Equation,&#8221; has come up with a formula that explains how to calculate your carbon footprint at home, too! Simply follow the below steps, and voila.</p>
+    <ul>
+        <li>Multiply your monthly electric bill by 105</li>
+        <li>Multiply your monthly gas bill by 105</li>
+        <li>Multiply your monthly oil bill by 113</li>
+        <li>Multiply your total yearly mileage on your car by .79</li>
+        <li>Multiply the number of flights you&#8217;ve taken in the past year (4 hours or less) by 1,100</li>
+        <li>Multiply the number of flights you&#8217;ve taken in the past year (4 hours or more) by 4,400</li>
+        <li>Add 184 if you do NOT recycle newspaper</li>
+        <li>Add 166 if you do NOT recycle aluminum and tin</li>
+        <li>Add 1-8 together for your total carbon footprint</li>
+    </ul>
+    <p>Keep in mind that an &#8220;ideal&#8221; carbon footprint (or a &#8220;low&#8221; footprint) is anywhere from 6,000 to 15,999 pounds per year. 16,000-22,000 is considered average. Under 6,000 is considered very low. Over 22,000? You may want to take some of these &#8220;living green&#8221; practices into consideration.</p>
+</string>
+
+</resources>

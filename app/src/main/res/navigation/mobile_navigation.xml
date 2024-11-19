@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.greensort.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_wasteManagement2"
+            app:destination="@id/wasteManagement2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_waterConservation2"
+            app:destination="@id/waterConservation2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_energyConservation2"
+            app:destination="@id/energyConservation2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_biodiversityConservation2"
+            app:destination="@id/biodiversityConservation2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_climateChange2"
+            app:destination="@id/climateChange2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_pollution2"
+            app:destination="@id/pollution2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_sustainableAgriculture2"
+            app:destination="@id/sustainableAgriculture2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_environmentalLaws2"
+            app:destination="@id/environmentalLaws2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_carbonFootprint2"
+            app:destination="@id/carbonFootprint2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_nav_home_to_carbonFootprintCalculatorFragment"
+            app:destination="@id/carbonFootprintCalculatorFragment"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.greensort.ui.gallery.GalleryFragment"
+        tools:layout="@layout/fragment_gallery" >
+        <action
+            android:id="@+id/action_nav_gallery_to_wasteManagementQuiz"
+            app:destination="@id/wasteManagementQuiz"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.greensort.ui.slideshow.SlideshowFragment"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/wasteManagement2"
+        android:name="com.example.greensort.learn.WasteManagement"
+        tools:layout="@layout/fragment_waste_management" />
+    <fragment
+        android:id="@+id/waterConservation2"
+        android:name="com.example.greensort.learn.WaterConservation"
+        tools:layout="@layout/fragment_water_conservation" />
+    <fragment
+        android:id="@+id/sustainableAgriculture2"
+        android:name="com.example.greensort.learn.SustainableAgriculture"
+        tools:layout="@layout/fragment_sustainable_agriculture" />
+    <fragment
+        android:id="@+id/pollution2"
+        android:name="com.example.greensort.learn.Pollution"
+        tools:layout="@layout/fragment_pollution" />
+    <fragment
+        android:id="@+id/environmentalLaws2"
+        android:name="com.example.greensort.learn.EnvironmentalLaws"
+        tools:layout="@layout/fragment_environmental_laws" />
+    <fragment
+        android:id="@+id/energyConservation2"
+        android:name="com.example.greensort.learn.EnergyConservation"
+        tools:layout="@layout/fragment_energy_conservation" />
+    <fragment
+        android:id="@+id/climateChange2"
+        android:name="com.example.greensort.learn.ClimateChange"
+        tools:layout="@layout/fragment_climate_change" />
+    <fragment
+        android:id="@+id/carbonFootprint2"
+        android:name="com.example.greensort.learn.CarbonFootprint"
+        tools:layout="@layout/fragment_carbon_footprint" >
+        <action
+            android:id="@+id/action_carbonFootprint2_to_carbonFootprintCalculatorFragment"
+            app:destination="@id/carbonFootprintCalculatorFragment"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/biodiversityConservation2"
+        android:name="com.example.greensort.learn.BiodiversityConservation"
+        tools:layout="@layout/fragment_biodiversity_conservation" />
+    <fragment
+        android:id="@+id/carbonFootprintCalculatorFragment"
+        android:name="com.example.greensort.learn.CarbonFootprintCalculatorFragment"
+        tools:layout="@layout/fragment_carbon_footprint_calculator" />
+    <fragment
+        android:id="@+id/wasteManagementQuiz"
+        android:name="com.example.greensort.quizzes.WasteManagementQuiz"
+        tools:layout="@layout/fragment_waste_management_quiz" />
+</navigation>
